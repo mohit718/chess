@@ -1,0 +1,25 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mohit718/chess#readme",
+  "bugs": {
+    "url": "https://github.com/mohit718/chess/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohit718/chess.git"
+  },
+  "license": "ISC",
+  "author": "Mohit Soni",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm run start:frontend\" \"npm run start:backend\"",
+    "start:frontend": "npm run dev --prefix frontend",
+    "start:backend": "npm run dev --prefix backend"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "type": "init_game"
+  },
+
+  {
+    "type": "move",
+    "move": {
+      "from": "e7",
+      "to": "e5"
+    }
+  },
+
+  {
+    "type": "move",
+    "move": {
+      "from": "e2",
+      "to": "e4"
+    }
+  }
+]

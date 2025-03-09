@@ -3,6 +3,9 @@
 ## Project Description
 This multiplayer chess game is designed to offer an engaging and competitive online experience for chess enthusiasts. The application enables players to connect with random opponents and play chess in real-time. Key features include an intuitive interface, move tracking, and seamless matchmaking to ensure a smooth gaming experience.
 
+
+![chess](https://github.com/user-attachments/assets/e93b922f-217b-4a4f-82ab-8bd24f403868)
+
 ## Key Features
 ### 1. Online Multiplayer Mode
 - Players are matched with random opponents.
